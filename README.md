@@ -2,7 +2,7 @@ Email：sensei@kivotos.de
 
 X：https://x.com/gilbertvonlee
 
-website which i am working on: [kivotos.de](https://wallpaper.kivotos.de) Already Available!!!
+website which i am working on: [BlueArchive Web Live2D Player](https://wallpaper.kivotos.de) Already Available!!!
 
 <!---
 liworlford/liworlford is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
