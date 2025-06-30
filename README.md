@@ -1,8 +1,8 @@
-Email：Wolfordli@outlook.com
+Email：sensei@kivotos.de
 
-X：https://x.com/gilbertvonlee?s=21
+X：https://x.com/gilbertvonlee
 
-website which i am working on: [kivotos.de](https://kivotos.de) ~~Coming Soon~~ (actually not very soon)
+website which i am working on: [kivotos.de](https://wallpaper.kivotos.de) Already Available!!!
 
 <!---
 liworlford/liworlford is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
